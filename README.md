@@ -1,2 +1,2 @@
-# Subtypes-Detection-of-PTC-1-D-CNN-
+# Subtypes-Detection-of-PTC-1-D-CNN
 Capstone Project
