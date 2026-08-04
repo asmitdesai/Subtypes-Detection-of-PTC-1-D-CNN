@@ -69,7 +69,7 @@ Subtypes-Detection-of-PTC-1-D-CNN/
 └── README.md
 ```
 
-> This structure is a best-effort reconstruction — update this section to match your actual folder layout if it differs.
+
 
 ## Getting Started
 
