@@ -109,7 +109,7 @@ python explainability/explain.py
 | AUC | TBD |
 | F1-score | TBD |
 
-*(Fill in with your reported evaluation results.)*
+
 
 ## Future Work
 
